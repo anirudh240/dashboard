@@ -660,5 +660,28 @@
             </div>
         </main>
     </div>
+    <script>
+
+document.addEventListener('DOMContentLoaded', function() {
+  const header = document.querySelector('.header-title');
+  const msg = document.createElement('div');
+  msg.style.fontSize = '14px';
+  msg.style.color = '#3498db';
+  
+  
+  const tips = [
+    "Tip: Stay consistent with your coding!",
+    "Tip: Always commit often on GitHub.",
+    "Tip: Small progress each day adds up.",
+    "Tip: Break problems into smaller steps.",
+    "Tip: Comment your code clearly!"
+  ];
+  
+  const randomTip = tips[Math.floor(Math.random() * tips.length)];
+  msg.textContent = randomTip;
+  
+  header.appendChild(msg);
+});
+</script>
 </body>
 </html>
