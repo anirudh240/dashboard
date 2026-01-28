@@ -12,7 +12,7 @@ It is designed to work perfectly on all devices — desktops, ipad's, and smartp
 - Built with **Bootstrap (layout)** and **Tailwind CSS (styling + responsiveness)**  
 - Sections included:  
   - About Me  
-  - Projects Showcase  
+  - Projects Showcase
   - Contact Information  
 
 ---
