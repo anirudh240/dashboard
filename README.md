@@ -24,6 +24,7 @@ It is designed to work perfectly on all devices — desktops, ipad's, and smartp
 - **Tailwind CSS**
 - **Git & GitHub**
 - **Vercel (Deployment)**
+- **Superbase**
 
 ---
 
