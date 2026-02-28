@@ -13,7 +13,7 @@ It is designed to work perfectly on all devices — desktops, ipad's, and smartp
 - Sections included:  
   - About Me  
   - Projects Showcase
-  - Contact Information  -
+  - Contact Information - anirudhreddy.1807@gmail.com
 
 ---
 
